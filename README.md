@@ -1,2 +1,3 @@
 # hello-world
-git-hub interface tutorial
+This is to complete the git-hub interface tutorial, now edited to include more words
+
